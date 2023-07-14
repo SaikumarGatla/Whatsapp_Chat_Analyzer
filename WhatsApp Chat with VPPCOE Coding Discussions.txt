@@ -1,0 +1,674 @@
+04/09/22, 14:07 - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+29/08/22, 20:45 - Tejas Warambhe Clg Coder CP created group "VPPCOE Coding Discussions"
+04/09/22, 14:07 - You joined using this group's invite link
+05/09/22, 20:41 - Tejas Warambhe Clg Coder CP: https://unacademy.com/class/placement-calendar-after-gate-opportunities/3RP89RY3
+
+You can keep a track on 2023 internships.
+Make sure to build your resume and projects till then, stop pasting projects from github you’ll definitely cry in real world internships/ Jobs.
+06/09/22, 11:56 - +91 96197 79052 joined using this group's invite link
+06/09/22, 12:04 - +91 70737 66083 joined using this group's invite link
+07/09/22, 10:23 - +91 81048 50512 joined using this group's invite link
+10/09/22, 14:37 - Tejas Warambhe Clg Coder CP added +91 91363 45128
+10/09/22, 17:21 - +91 91363 45128: Hey everyone, 
+I'm Ashutosh Yadav, a Web3 enthusiast, and a Frontend Developer, with 2+ years of experience in Freelancing, and have been providing case studies, and web solutions, to the amazing creators, and entrepreneurs out there.  
+
+Let's learn, connect and grow together !!!
+10/09/22, 19:13 - +91 81087 32316: https://www.codechef.com/submit/ORTUPLES?tab=statement
+10/09/22, 19:14 - +91 81087 32316: @919850582847, how to approach such bitwise problem?
+10/09/22, 19:34 - Tejas Warambhe Clg Coder CP: This uses bit masking concept with combinatorics
+We know the property of bitwise OR i.e
+In P | Q if any bit is set in either of the numbers the result will also have that bit set
+
+Now observe the problem 
+We run a bit mask from 0th bit to 20th bit (as per given in constraints)
+If in P Q R have all bit set to 0
+Then answer would be 1 because the numbers would be zeros which gives only 1 way to choose from 3 numbers 
+
+If bit is set in all numbers
+Then we would be using NCR (3C2) to choose pair
+
+If exactly one bit is set, then answer is 0 because numbers are made simultaneously as per previous number which means a set bit is ought to set the bit of corresponding next number.
+
+For other cases answer is 1 
+Why?(try on paper 😅 I just have intuition)
+10/09/22, 19:36 - Tejas Warambhe Clg Coder CP: 3C2 = 3 
+And let’s add 1 to it as a general case of all bit set case 
+So 4 would be added if this happens
+10/09/22, 19:45 - Tejas Warambhe Clg Coder CP: Other way would be to brute force it 😅 in the end we are considering in terms of bits so 
+O(30*2^3) works
+
+Have a look at this solution pretty simple
+https://www.codechef.com/viewsolution/73433796
+10/09/22, 20:57 - +91 81087 32316: Cool...understood!
+10/09/22, 20:58 - +91 81087 32316: Thank you
+10/09/22, 23:18 - +91 72081 57162 changed to +91 73047 51861
+12/09/22, 10:50 - +91 96198 73453 joined using this group's invite link
+14/09/22, 16:27 - +91 93592 15145 joined using this group's invite link
+18/09/22, 15:41 - Tejas Warambhe Clg Coder CP: MOST IMPORTANT TOPICS RELATED TO OS/DBMS/OOPS/CN FOR PLACEMENTS :- 
+
+
+📍IMPORTANT TOPICS FOR DBMS: -
+1. Advantage of DBMS
+2. All types of Keys
+3. Normalization
+4. SQL queries
+5. Relational Algebra
+6. Joins
+7. Trigger, cursor, view
+8. Dirty read problem
+9. Conflict serializable vs View serializable.
+10. ACID properties.
+11. Indexing | Indexing methods
+
+
+📍 IMPORTANT TOPICS FOR OS: - 
+1. Process (Attributes, state, life cycle, PCB) vs Thread.
+2. Scheduling Algorithms
+3. Multiprogramming vs Multiprocessing vs Multitasking vs Multi-threading.
+4. Memory Allocation (Fixed Partitioning, Dynamic Partitioning, Paging) Segmentation
+5. Internal and External Fragmentation.
+6. Memory Allocation Technique.
+7. Page replacement Algos
+8. Deadlock
+9. Critical section problem
+10. Mutex vs Semaphore
+
+
+📍IMPORTANT TOPIC FOR COMPUTER NETWORKS: -
+1. Network Topology
+2. Switch hub router bridge
+3. Transmission modes
+4. ipv4 vs ipv6
+5. subnetting in IP
+6. OSI layer
+7. TCP/IP model
+8. TCP vs UDP
+9. DNS DHCP FTP HTTP vs HTTPS SMTP SNMP
+10. Flow vs Error control
+
+
+📍IMPORTANT TOPIC FOR OOPS: - 
+1. Class and Objects.
+2. Feature/characteristics of OOPs.
+3. Compile time and Runtime polymorphism.
+4. Variable scopes.
+5. static (variables, Functions, Objects).
+6. Inheritance (Type and Mode)
+7. Virtual (Functions and Class)
+8. Abstract class and Interface.
+9. Friend function and Friend class.
+10. Call by value, reference.
+11. This pointer
+12. Abstraction
+13. Exception Handling
+14. Constructor and Destructor.
+15. Copy constructor
+16. copy assignement operator
+17. Refrences variable
+18. Const (variable, Function, Argument)
+19. Overloading (Function, Constructor,  Operator)
+20. Function overriding and Inline function.
+18/09/22, 17:30 - +91 93214 62103: 👍🏻👍🏻👍🏻
+27/09/22, 19:40 - Tejas Warambhe Clg Coder CP: https://cuvette.tech/
+
+One of the most underrated website to find Paid Internships,
+Apply in as many as you want, make sure your resume is updated and curated as per the requirements 
+
+Many people think they’ll use same resume for every job role but it will reduce your chances significantly.
+Change as per roles and requirements as highlighting the skills would help you
+
+You don’t have to fit in 100% of criteria even 60% match rate is enough to apply for that internship. As a fresher no one is expected to know everything, we all learn on the go.
+
+Hopefully some of you will crack good internships 
+Internships even provide PPOs you will be tension free all final year
+
+I’ll give my example, I performed great at my internship and was offered 5.5 lpa PPO(which I rejected for personal reasons).
+But it does give you moral boost.
+27/09/22, 19:52 - +91 91378 93430: Thankyou Sir
+27/09/22, 20:04 - +91 86899 05648: Thank you
+28/09/22, 12:44 - +91 88282 07705 joined using this group's invite link
+28/09/22, 19:46 - Tejas Warambhe Clg Coder CP: Connect with me on linkedIn
+https://www.linkedin.com/in/tejas-warambhe-0592841b4
+22/10/22, 14:04 - Tejas Warambhe Clg Coder CP: https://boards.greenhouse.io/wikimedia/jobs/4648732
+22/10/22, 18:55 - Tejas Warambhe Clg Coder CP: Check out this job at Kylo Apps: Flutter Developer intern
+https://www.linkedin.com/jobs/view/3313536324
+04/11/22, 00:49 - Tejas Warambhe Clg Coder CP: https://careers.leegality.com/jobs/Careers/10926000023775285/Software-Intern---Python?source=CareerSite
+
+Good opportunity for python devs
+23/11/22, 01:01 - Pratham Kumbhar (clg): <Media omitted>
+01/12/22, 15:48 - Tejas Warambhe Clg Coder CP: Are you guys stuck and thinking of learning blockchain development?
+
+Learning blockchain development in a bear market will help you understand more about Blockchain and how different blockchain systems work, how to debug, test and manage smart contracts, how to make upgradeable smart contracts and everything from zero to advance in Blockchain Development. We, at SurfGuild-Web3-Academy, will help you out in becoming one, we will be helping you grow, earn and learn on the go, 
+
+Don’t miss this amazing opportunity, to learn blockchain development, or else you might be regretting somewhere in the near 6-8 months from now !!
+
+The choice is yours:
+
+And do follow us for the amazing content on Twitter and in order to stay with us, do join our amazing community:
+
+Whatsapp: (https://chat.whatsapp.com/CAlIoK5BvYJHQ8XPt9th1y)
+
+Twitter: (https://twitter.com/sgweb3academy)
+
+Discord: (https://discord.gg/surf-guild-986810133235519508)
+01/12/22, 15:49 - Tejas Warambhe Clg Coder CP: In this, @919136345128 will teach you upon how to get started and navigate through the learning phase.
+01/12/22, 15:51 - +91 91363 45128: Yes, guys, and all of this content will be free, right from the basics to advance, do follow us on twitter and let's start the blockchain journey !!
+01/12/22, 15:53 - +91 91363 45128: We want you guys to build some amazing projects and represent our college sometime in near future, and as you see, India is an amazing nation with amazing developers from remote areas, and they are doing damn well, Do grad this amazing opportunity to learn in the bear market as this will help you grow and understand about smart contracts and their various usecases !!
+16/12/22, 17:23 - Tejas Warambhe Clg Coder CP: Check out this job at Alchemial: Software Engineer Intern
+https://www.linkedin.com/jobs/view/3402374361
+19/12/22, 23:48 - Sarth(clg) div D: Kisike pass Ubuntu ya fir any Linux distributions ka copy hai kya
+20/12/22, 09:21 - Sushant Patil Div B Clg 🌌: Nhi
+20/12/22, 09:54 - Sarth(clg) div D: Kk
+27/12/22, 11:53 - ~Saikumar Gatla: Basic 7 day long *A-Z Machine learning using python and & SkLearn | FREE BOOTCAMP*
+
+*No Prerequisite required*
+
+*You will learn:*
+1. Intro to Python
+2. NumPy
+3. Pandas
+4. Intro to machine learning 
+5. ML Algorithm & implementation 
+6. Machine learning project 
+
+*Certificates are provided by DevTown , Google and Microsoft at the end for free*
+
+*REGISTER NOW:!!*
+https://forms.gle/9n1jAjBCN3F6fWN29
+
+*Join Bootcamp WhatsApp Group*
+https://chat.whatsapp.com/FsL4cNboAYTLd0ZNIfSI4s
+27/12/22, 11:53 - ~Saikumar Gatla: <Media omitted>
+28/12/22, 22:29 - Tejas Warambhe Clg Coder CP: Hello guys!
+Would like to know what y'all building or how's the Internship hunt going on?
+28/12/22, 22:30 - +91 84199 14299: Learning mongodb
+28/12/22, 22:31 - +91 84199 14299: Till start my hunt from next month probably
+28/12/22, 22:35 - Tejas Warambhe Clg Coder CP: Oh great!
+Make sure you learn mongoose, most companies use it
+28/12/22, 22:36 - +91 84199 14299: Recently builded this to do list
+28/12/22, 22:36 - +91 84199 14299: https://nice-ruby-camel-tux.cyclic.app/
+28/12/22, 22:37 - +91 84199 14299: It doesn't have a db tho so the task list aren't saved anywhere that makes it useless 😅
+28/12/22, 22:38 - +91 84199 14299: I mean it's not saved in any db
+28/12/22, 22:38 - Tejas Warambhe Clg Coder CP: You can use Mongodb, learn login/logout, authentication and Authorization 
+Then each user can have their unique data
+28/12/22, 22:38 - +91 84199 14299: Yeah I'm trying to do that
+28/12/22, 22:39 - Tejas Warambhe Clg Coder CP: Np! What did you use to build UI?
+28/12/22, 22:39 - +91 84199 14299: Html and css
+28/12/22, 22:39 - Tejas Warambhe Clg Coder CP: Great!
+What do you want to be specifically? 
+Backend/Frontend/Fullstack?
+28/12/22, 22:40 - +91 84199 14299: But the design is not completely designed by me I'm not that good in Design😅
+28/12/22, 22:40 - +91 84199 14299: Full stack
+28/12/22, 22:40 - Sudip🖤 Ghosh Div B Clg: You're in which year?
+28/12/22, 22:40 - +91 84199 14299: 3
+28/12/22, 22:41 - Tejas Warambhe Clg Coder CP: Then it’s important for you to learn React.js for frontend
+Most websites on web are either in PHP or React.js
+28/12/22, 22:41 - +91 84199 14299: Yeah I will be learning that ig react is in demand
+28/12/22, 22:41 - Sudip🖤 Ghosh Div B Clg: I see
+Then it's time you need to start grinding.
+28/12/22, 22:41 - +91 84199 14299: Yeah
+28/12/22, 22:41 - Sudip🖤 Ghosh Div B Clg: Make the most out of this remaining months
+28/12/22, 22:41 - +91 84199 14299: Yeah
+28/12/22, 22:42 - +91 84199 14299: Thnx
+28/12/22, 22:42 - Sudip🖤 Ghosh Div B Clg: You want to do full stack in?
+28/12/22, 22:42 - +91 84199 14299: Mern
+28/12/22, 22:42 - Sudip🖤 Ghosh Div B Clg: Okay
+28/12/22, 22:44 - Tejas Warambhe Clg Coder CP: Coming to backend, make sure your DBMS knowledge is cream
+You have to create schemas before developing APIs
+If you need any resources to start with let me know
+28/12/22, 22:44 - Sudip🖤 Ghosh Div B Clg: I have recently started with sumit mittal.
+Is it a better option?
+28/12/22, 22:44 - +91 84199 14299: Any good resources for learning about DBMS I do know SQL but im not that good in fundamentals
+28/12/22, 22:45 - Tejas Warambhe Clg Coder CP: Which domain specifically?
+28/12/22, 22:45 - Sudip🖤 Ghosh Div B Clg: SQL
+28/12/22, 22:46 - Tejas Warambhe Clg Coder CP: For beginner level SQL if you know basic CRUD (create, read, update, delete) queries, head over to hackerrank SQL section, select EASY filter. And try solving them.
+Once you are comfortable, you’ll learn on the job/intern
+28/12/22, 22:47 - Tejas Warambhe Clg Coder CP: Yes it’s good, just a tip open MySQL workbench side by side and practice over a dummy database
+28/12/22, 22:47 - +91 84199 14299: Thnx 👍
+28/12/22, 22:47 - +91 84199 14299: I do know crud commands
+28/12/22, 22:48 - Tejas Warambhe Clg Coder CP: Coming to DBMS, I think for theoretical part, our university book is good enough.
+DBMS is the hottest topic in interview, I’ve given many interviews and each and every one of them asked DBMS
+28/12/22, 22:48 - Sudip🖤 Ghosh Div B Clg: For DBMS theoretical
+Love Babbar ( *Codehelp*) is also a better option according to me
+28/12/22, 22:49 - +91 84199 14299: Yess I watched a few videos of them it was informative
+28/12/22, 22:49 - Tejas Warambhe Clg Coder CP: I’ll give an example what a startup would expect from you
+Day before yesterday I had a 1 hour interview for backend.
+For 20 mins I was asked DBMS questions 
+Then he made me open excel sheet and asked me to design database schema for E-commerce application 
+Condition:- DO NOT USE ARRAYS
+28/12/22, 22:50 - +91 90046 27590: I am in third I find coding difficult how to start with it please help
+28/12/22, 22:50 - Tejas Warambhe Clg Coder CP: Let’s split it up in 2 parts
+
+DSA
+Development 
+
+What do you want to start?
+28/12/22, 22:51 - +91 84199 14299: Damn
+28/12/22, 22:55 - Sudip🖤 Ghosh Div B Clg: According to you How much important in system Design?
+28/12/22, 22:55 - Tejas Warambhe Clg Coder CP: Which year?
+28/12/22, 22:55 - Sudip🖤 Ghosh Div B Clg: Third
+28/12/22, 22:55 - +91 91378 93430: Any *Svelte js Developer*
+28/12/22, 22:55 - +91 91378 93430: ?
+28/12/22, 22:56 - +91 89280 48443: What is the easiest to start with
+28/12/22, 22:57 - Tejas Warambhe Clg Coder CP: If your target is product based > 15 LPA, then it’s necessary to know HLD(high level design) you can skill LLD.
+Just to let you know, getting product based interview calls is difficult even with intern experience.
+Try to do a GOOD intern, not some spark foundation bs
+28/12/22, 22:57 - Sudip🖤 Ghosh Div B Clg: Got it.
+Thanks
+28/12/22, 22:58 - +91 91378 93430: Project ideas for Frontend ?
+28/12/22, 22:58 - Sudip🖤 Ghosh Div B Clg: Oh yes and Congratulations for your new position at *Clamp*
+28/12/22, 22:59 - Tejas Warambhe Clg Coder CP: Both will consume time, but I’ll suggest you development first so you can build projects which are definitely asked in companies that visit our clg.
+
+For it, you can decide first what you want to learn web or app
+
+Then decide frontend /backend/ fullstack 
+
+@918928048443 just google or watch YouTube videos for today and decide what you want to persue, I’ll guide you on how to start with it.
+Ping me tomorrow in DM.
+28/12/22, 23:01 - Tejas Warambhe Clg Coder CP: Thanks! I’ll just plug-in my post here 😂
+https://www.linkedin.com/feed/update/urn:li:activity:7013907493596622848/
+28/12/22, 23:02 - +91 98209 50084: congratulations 👏
+28/12/22, 23:02 - Tejas Warambhe Clg Coder CP: Use your ego.
+Easiest way
+
+Just surfed some websites and decided I’ll make better.
+28/12/22, 23:09 - Tejas Warambhe Clg Coder CP: <Media omitted>
+28/12/22, 23:12 - +91 84199 14299: How did you got your internship and what was your role or skills needed for it
+28/12/22, 23:17 - Tejas Warambhe Clg Coder CP: MERN + Blockchain Dev
+Interview was simple, just talking about what I actually built in hackathons or intern or personal projects
+29/12/22, 13:01 - +91 91363 45128: https://open.substack.com/pub/p2egaming/p/introduction-about-p2e-gaming?r=jj7sa&utm_campaign=post&utm_medium=web
+31/12/22, 10:43 - +91 90824 29754 added +91 93242 78224
+31/12/22, 19:48 - +91 91363 45128: https://p2egaming.substack.com/p/the-impact-of-p2e-gaming-on-the-gaming?sd=pf
+31/12/22, 19:55 - +91 91307 03898 joined using this group's invite link
+31/12/22, 19:55 - +91 93243 28505 joined using this group's invite link
+31/12/22, 19:55 - +91 93243 54306 joined using this group's invite link
+31/12/22, 19:56 - +91 77180 77269 joined using this group's invite link
+31/12/22, 19:57 - +91 96534 07423 joined using this group's invite link
+31/12/22, 20:00 - +91 90046 97366 joined using this group's invite link
+31/12/22, 20:02 - +91 96642 45743 joined using this group's invite link
+31/12/22, 20:08 - +91 96194 56269 joined using this group's invite link
+31/12/22, 20:13 - +91 96994 07467 joined using this group's invite link
+31/12/22, 20:13 - +91 91374 77483 joined using this group's invite link
+31/12/22, 21:04 - +91 76663 91660 joined using this group's invite link
+01/01/23, 00:01 - Tejas Warambhe Clg Coder CP: Happy New Year to all, may all your dreams come true this year🔥
+01/01/23, 00:03 - +91 95615 63538: Happy new year🎉🔥
+01/01/23, 12:38 - +91 84199 14299: Happy new year 🎉🎉🎉
+01/01/23, 21:37 - +91 91363 45128: https://open.substack.com/pub/p2egaming/p/from-cryptocurrency-to-in-game-currency?r=jj7sa&utm_campaign=post&utm_medium=web
+02/01/23, 10:15 - +91 77770 96028 joined using this group's invite link
+02/01/23, 07:02 - Yash Bhovad Div B Clg: Happy new year🥳🎉
+02/01/23, 14:42 - +91 81045 61330: @admins can you share group invite link ?
+02/01/23, 16:14 - +91 90824 29754: https://chat.whatsapp.com/IFH8tgcpqrDCSW7RGdM9Zp
+02/01/23, 16:55 - +91 93215 68629 joined using this group's invite link
+02/01/23, 17:05 - +91 91373 74363 joined using this group's invite link
+02/01/23, 18:31 - Sachin Gupta (clg) joined using this group's invite link
+02/01/23, 19:42 - +91 90827 84084 joined using this group's invite link
+02/01/23, 22:26 - +91 90497 61699 joined using this group's invite link
+02/01/23, 23:51 - +91 84199 14299: <Media omitted>
+03/01/23, 00:06 - Tejas Warambhe Clg Coder CP: <Media omitted>
+03/01/23, 00:06 - Tejas Warambhe Clg Coder CP: <Media omitted>
+03/01/23, 18:09 - Tejas Warambhe Clg Coder CP: 🤠 Want to join a community of curious web3 builders?
+
+Join our discord to get: 
+
+🚀 Community sessions, Smart peers, Chance to Interact with experienced Web3 builders!
+💰 Internship Opportunities at Clamp & other web3 companies.
+👀 Memes.
+
+https://discord.gg/Pcq9wxnd2n
+09/01/23, 20:31 - +91 84199 14299: https://dead-erin-caterpillar-ring.cyclic.app/
+09/01/23, 20:33 - +91 84199 14299: https://dead-erin-caterpillar-ring.cyclic.app/<any list name u want>
+09/01/23, 20:43 - +91 91378 93430: EPIC
+09/01/23, 20:43 - +91 84199 14299: Thnx bro
+09/01/23, 20:43 - +91 91378 93430: github ?? contribution................
+09/01/23, 20:47 - +91 84199 14299: Karde
+09/01/23, 20:47 - +91 84199 14299: Just upload Kiya hai code
+09/01/23, 20:47 - +91 84199 14299: https://github.com/Anuragmaurya-code/todolist-v2
+09/01/23, 20:49 - +91 81045 61330: How this works?
+09/01/23, 20:58 - +91 90497 61699: Add new items to your to-do list
+09/01/23, 20:58 - +91 90497 61699: Will help you keep track of things you need to do in a day
+09/01/23, 21:00 - +91 81045 61330: But why is it like global kind of thing? I mean why do I see the things of others ?
+09/01/23, 21:00 - +91 90497 61699: Oh yea
+09/01/23, 21:00 - +91 90497 61699: just noticed
+09/01/23, 21:01 - +91 90497 61699: yea should have a sign in functionality i guess
+09/01/23, 21:01 - +91 81045 61330: No need of sign in, maybe you should check the architecture you're working on
+09/01/23, 21:03 - +91 90497 61699: how will he isolate it for each individual user then
+09/01/23, 21:06 - +91 81045 61330: You can use local storage like functionality to eliminate the sign in. Else go with sign in if you want to make it available for all devices.
+09/01/23, 21:06 - +91 91378 93430: https://sikandarjodd.github.io/kit/
+09/01/23, 21:07 - Tejas Warambhe Clg Coder CP: For all frontend devs, I’ll recommend learning firebase which is a serverless db.
+I know you don’t wanna go into backend but to shocase projects to the interviewers some kind of db is necessary.
+09/01/23, 21:10 - Tejas Warambhe Clg Coder CP: Nice
+Check spelling of submit once 😛
+09/01/23, 21:11 - +91 81045 61330: How are you storing the data?
+09/01/23, 21:12 - +91 91378 93430: Local storage 😂
+09/01/23, 21:12 - +91 81045 61330: 😂👍
+09/01/23, 21:20 - +91 91378 93430: Updated ✅
+09/01/23, 21:49 - +91 84199 14299: Cool bro
+09/01/23, 21:49 - +91 84199 14299: I need to do that will update once I know how to do that
+10/01/23, 21:33 - +91 95886 22796: Anyone have short pdf of python syntax To revise things quickly
+10/01/23, 21:39 - +91 93268 09567: <Media omitted>
+10/01/23, 21:53 - +91 95886 22796: Thank you
+18/01/23, 15:14 - Tejas Warambhe Clg Coder CP: Had  media.net interview round 2 today for Web Application Dev (8 lpa)
+
+1.5 hour duration 
+
+Coding on screenshare
+
+1) Number of paths in a grid (leetcode dp easy)
+
+1) Greatest next number (leetcode I guess)
+Input -> 123 
+Output -> 132 
+
+Spiral matrix (on gfg you will find it)
+
+Web dev theory in depth (basis of my dev profile) -> Not for people who haven’t done (real) internships
+
+3 sql problems (easy ones)
+
+SQL Regex example for spotting characters “ab” in a tuple.
+Between (wrote query)
+Order by (wrote query)
+Group by (theory only)
+
+Explanation on reverse a Linkedlist and palindrome Linkedlist
+
+Dfs BFS theory
+
+What is binary search tree
+
+Depends on interviewer, my interviewer asked theory too others aren’t.
+18/01/23, 15:26 - +91 81087 32316: How did you apply? Through referral or career page 
+Can u elaborate on the whole process from the start??
+18/01/23, 15:26 - Tejas Warambhe Clg Coder CP: Through clg on-campus tha ye
+18/01/23, 15:27 - Tejas Warambhe Clg Coder CP: First round was coding one which was 2 easy-medium problems
+18/01/23, 15:28 - Tejas Warambhe Clg Coder CP: Offcampus Media.net SDE role offers 44 LPA CTC for freshers btw
+But you have to be extremely good at competitive programming.
+18/01/23, 15:30 - ~Saikumar Gatla: When did the company came in the campus
+18/01/23, 15:30 - ~Saikumar Gatla: Month
+18/01/23, 15:31 - Tejas Warambhe Clg Coder CP: December start
+18/01/23, 15:32 - +91 81087 32316: Ooh
+18/01/23, 15:33 - ~Saikumar Gatla: Can you tell the name of other  companies that visited the campus
+18/01/23, 15:33 - +91 81087 32316: How many were selected for round 2
+18/01/23, 15:35 - +91 81087 32316: N topic name of this problem?
+19/01/23, 01:07 - Tejas Warambhe Clg Coder CP: 40 were selected (guess how 40 were selected 😉)
+19/01/23, 01:08 - Tejas Warambhe Clg Coder CP: Not leetcode, adhoc I will say, no hard than codeforces div 2B level or compare it with leetcode easy with heavy implementation
+19/01/23, 01:13 - Tejas Warambhe Clg Coder CP: Many came, out of which the famous ones I will point (rest are just small orgs or agencies with no brand value and growth in my personal opinion)
+
+Product based 
+Media.net
+
+Service based
+
+Zues Learning
+TCS 
+Tech mahindra
+Jio
+19/01/23, 09:55 - ~Saikumar Gatla: +918452915724
+19/01/23, 09:55 - ~Saikumar Gatla: +91 85910 81463
+19/01/23, 09:55 - ~Saikumar Gatla: 👆
+19/01/23, 09:55 - ~Saikumar Gatla: Canyou add these numbers @919850582847
+19/01/23, 10:58 - +91 96652 44240 joined using this group's invite link
+19/01/23, 10:58 - +91 91373 13935 joined using this group's invite link
+19/01/23, 11:03 - Tejas Warambhe Clg Coder CP: @919930920926 
+https://chat.whatsapp.com/IFH8tgcpqrDCSW7RGdM9Zp
+19/01/23, 11:24 - +91 93723 28592 joined using this group's invite link
+19/01/23, 12:13 - Nabhangi Mhatre (clg) Which Bee Book joined using this group's invite link
+19/01/23, 14:16 - Manish Vishwakarma (clg) joined using this group's invite link
+21/01/23, 08:28 - +91 90046 76935 joined using this group's invite link
+23/01/23, 10:35 - +91 84338 33021 joined using this group's invite link
+23/01/23, 13:22 - Gaurav Shiromani Clg joined using this group's invite link
+23/01/23, 22:19 - +91 91365 24340 joined using this group's invite link
+23/01/23, 22:22 - +91 91365 24340: Guys actually my insta account got hacked
+23/01/23, 22:22 - +91 91365 24340: Can any body tell me how to retrieve
+23/01/23, 22:23 - +91 91378 93430: <Media omitted>
+23/01/23, 22:23 - +91 91307 03898: Try to login from chrome by mail or phone no!
+23/01/23, 22:23 - +91 91378 93430: <Media omitted>
+23/01/23, 22:24 - +91 91307 03898: Asap
+23/01/23, 22:24 - +91 91307 03898: Before mail n phone number changed by hacker
+23/01/23, 22:42 - +91 84199 14299: hack kiya par yada ko pata bhi nhi ki 30k toh vppcoe ka bacho ka package bhi nhi invest kasa sa kara😭
+23/01/23, 22:42 - +91 93218 82267: <Media omitted>
+23/01/23, 22:43 - +91 91374 77483: This message was deleted
+23/01/23, 22:43 - +91 84199 14299: 😂
+23/01/23, 22:43 - +91 96642 45743: <Media omitted>
+23/01/23, 22:43 - +91 95615 63538: Itna sach bhi nahi bolna tha..
+23/01/23, 22:44 - +91 91365 24340: 🙃🙃🙃🙃 Bc nashib he Gandu hai mera
+23/01/23, 22:44 - +91 91307 03898: Fees se to Kam hai ghr vale jod lenge kaise to ye soch ke scheme layi hai shayad 😭
+23/01/23, 22:44 - +91 91307 03898: Hota hai retrieve try kro to 😪
+23/01/23, 22:45 - +91 91371 77800: 350,000 ka loss, puri kamai teri ab hacker apne bank account mein daalega
+23/01/23, 22:45 - +91 91307 03898: Isme Tera ghr chala jayenga 😭
+23/01/23, 22:45 - +91 84199 14299: This message was deleted
+23/01/23, 22:47 - +91 91307 03898: Koi engineer hi hoga jo place nhi hua👀
+23/01/23, 22:49 - +91 91378 93430: Ye idea tho Rais sir ke hai ...bola muja ke maksad tho yaad hai na
+23/01/23, 22:51 - +91 95886 22796: Arre atleast wo id ko to report kro...
+23/01/23, 22:51 - +91 91371 77800: Dont report
+23/01/23, 22:51 - +91 91307 03898: Kuch nhi hota report krke
+23/01/23, 22:51 - +91 91371 77800: Uska account takedown kardenge
+23/01/23, 22:52 - +91 91371 77800: Aaram se recover ho jaata hai
+23/01/23, 22:52 - +91 91371 77800: Instagram accounts
+23/01/23, 22:52 - +91 95886 22796: Arre wo rachel wala id re...
+23/01/23, 22:52 - +91 91371 77800: Vppcoe coding discussion
+23/01/23, 22:53 - +91 91365 24340: Kiya bohot logo ne🥲🥲
+23/01/23, 22:53 - +91 91307 03898: Yeah exactly untill insta khud suspend na kre
+23/01/23, 22:53 - +91 84199 14299: This message was deleted
+23/01/23, 22:54 - +91 91365 24340: <Media omitted>
+23/01/23, 22:55 - +91 91365 24340: Tere jaise shauk nahi hai mere
+23/01/23, 22:55 - +91 91365 24340: Apni baat mat kiya kar har jagah
+23/01/23, 22:55 - +91 84199 14299: jk
+23/01/23, 22:55 - +91 91307 03898: https://www.instagram.com/hacked/
+23/01/23, 22:55 - +91 84199 14299: 😂
+23/01/23, 22:55 - +91 81087 32316: Guys kindly read group description 🌝
+23/01/23, 22:56 - +91 91365 24340: Kiya try didn't work
+23/01/23, 23:28 - Tejas Warambhe Clg Coder CP: 😂
+23/01/23, 23:29 - Tejas Warambhe Clg Coder CP: Civil convo rakho even as friends!
+23/01/23, 23:31 - +91 91363 45128: ha
+02/02/23, 15:48 - +91 88287 20326 joined using this group's invite link
+05/02/23, 03:34 - +91 91378 93430: Button Generator : 
+https://sikandarjodd.github.io/button-gen/
+05/02/23, 03:57 - +91 91371 77800: thats a nice project, i havent taken a lot at the codebase but i assumed you used inline css to change the styles based on code state changes. nice biraadar.
+05/02/23, 03:57 - +91 91371 77800: <Media omitted>
+05/02/23, 03:57 - +91 91371 77800: Taken a look at the*
+05/02/23, 03:58 - +91 91378 93430: Thenks 😁 Brooo
+05/02/23, 10:17 - Tejas Warambhe Clg Coder CP: <Media omitted>
+05/02/23, 10:20 - +91 81045 61330: Also i would suggest that the output code should be easy like add inline css on button, because the user who is using this website ofcourse he don't have much knowledge about css and html so dont make it complicated by giving 2 tags as output. Or just ask user what they want. (Just a personal thought)
+05/02/23, 10:35 - +91 84199 14299: Great work 🫡
+05/02/23, 13:48 - +91 91378 93430: Yes Sir
+05/02/23, 13:48 - +91 91378 93430: Working on it...
+05/02/23, 18:18 - +91 91378 93430: Done 
+https://sikandarjodd.github.io/button-gen/
+05/02/23, 18:18 - +91 91378 93430: Yeep Done using inline + style css
+05/02/23, 18:19 - +91 91371 77800: <Media omitted>
+05/02/23, 18:19 - +91 91371 77800: Gg
+05/02/23, 18:34 - Tejas Warambhe Clg Coder CP: Good
+09/02/23, 20:28 - +91 84199 14299: https://anuragmaurya-code.github.io/Resturant/
+09/02/23, 20:42 - +91 91378 93430: Filter Op
+09/02/23, 20:48 - +91 98330 03539: ''How many millionaires do you know who have become wealthy by investing in savings account?
+I rest my case."
+`Robert G Allen`
+
+Always wondered to invest in stock market 📈 to experience the adrenaline of risk, excitement of ups and downs.
+Well don't worry as we have certainly listened to your wishes.
+This is E-CELL VJTI bringing to you one of our grandest event WALLSTREET'23
+
+`(Alexa, play scam 1992 bgm)`
+
+Here you will trade to learn,
+Here you will analyse for for fun,
+Here you will make profits to garner confidence and experience,
+Here you will bear losses to develop robustness and resilience!
+The event is virtual but ain't the risk.
+
+Capitalize this opportunity🎯 and get started on your
+Adventure around the highs and lows of the 'DALAL STREET'
+
+Victory and prizes both await the last man standing!
+
+Event Date - 12 Feb 2023
+*Prize pool- 50K*
+
+You all can participate as individuals or as a team of '2'
+Register yourself at
+https://forms.gle/XPL6chRHTb6F75G49
+
+For Doubts & Queries
+Shreyash: 7498098844
+Himanshu: 8378082602
+Mayank: 8097990787
+Subodh: 7021372627
+Ssuresh: 9136203036
+
+"Sharpen up your wits, get your trading suits on,as the bulls and bears are about to lock horns!
+09/02/23, 20:58 - +91 91378 93430: Niceeee
+09/02/23, 21:13 - +91 91363 45128: its amazing to see the community growing !!
+09/02/23, 21:14 - +91 91371 77800: The phone layout is broken, put a width: 100vw and overflow-x: hidden
+09/02/23, 21:18 - +91 91363 45128: you guys can try hosting different coding and project marathons, were in you'll be making projects or say coding and sharing it here as well as on linkedin, this will help you get connections as well as opportunities !! 
+
+Have been doing this for last 2 years !! 
+
+And for those who don't know, I'm a freelancer and have been into this industry for last 2 years, have worked with clients like Atul Khatri  - Content creator & stand up comic 
+Vedika Bhaia  - content creator & growth expert 
+Baya Company - biggest architecture company 
+Adsto - video production agency 
+Bandstand Media : Video production agency 
+and recently working with gaming company in singapore !! 
+
+I got into this through linkedin !! 
+
+Check my linkedin profile for more info !! 
+
+https://www.linkedin.com/ashuydv
+09/02/23, 21:19 - +91 91363 45128: https://www.linkedin.com/in/ashuydv/
+09/02/23, 21:19 - +91 91363 45128: check this !!
+09/02/23, 21:30 - +91 84199 14299: Thnx
+09/02/23, 21:30 - +91 84199 14299: Will be adding media queries
+27/02/23, 08:33 - Sushant Patil Div B Clg 🌌: <Media omitted>
+27/02/23, 11:09 - Tejas Warambhe Clg Coder CP: Take part, I think most of y’all never did in one.
+
+Some tips :-
+Planning is 70% and execution is 30%
+The better you plan out what work is gonna be done by whom, the better you’ll perform.
+
+Have a leader who will look into what everyone is doing.
+
+Use github for collaboration (I’ll personally kick you out if I see someone sharing code on telegram along with node modules iykyk)
+
+Focus on features, build more features (you can write a single feature to the best but on paper more features win in hackathons as you have more to sell to the judges)
+Quite opposite tbh in real world it takes months to build a feature that’s robust and scalable.
+
+Use Figma or some UI design tool for making PPTs, if you use power point, god help you lol.
+If you wanna be more than mediocre in life push your limits and do more than what’s been asked (definitely not an advice for academics 😂 that’s a waste of time)
+
+Give your best, don’t get intimidated by competition. 
+At SIH our competitor were some IIT Bangalore folks, they had apple macbook pros with 100 stickers on the back of different hackathons they participated in past.
+
+If we underestimated ourselves, t’was sure shot a losing game.
+
+SIH coming back soon btw, I need atleast 10 teams winning the screening rounds and qualify for the on-site.
+27/02/23, 13:25 - +91 91363 45128: Damn !! Have been a part of everything he shared, and he meant everything he said !! 🔥🔥
+01/03/23, 21:24 - +91 91378 93430: Project :  https://swe-shirts.vercel.app
+01/03/23, 21:25 - +91 91371 77800: Really nice bhai
+01/03/23, 21:50 - +91 96994 07467: Amazing
+01/03/23, 22:24 - +91 84199 14299: Op
+02/03/23, 21:04 - +91 84199 14299: Checkout this project I made that takes prompt as input and creates an ai image using dalle api https://jittery-dog-umbrella.cyclic.app/
+02/03/23, 21:55 - +91 91378 93430: Sahi hai broooo
+02/03/23, 22:21 - +91 84199 14299: Thnx
+02/03/23, 22:41 - +91 84199 14299: <Media omitted>
+02/03/23, 22:43 - +91 84199 14299: <Media omitted>
+02/03/23, 22:43 - +91 84199 14299: Then put your name and share with community
+02/03/23, 22:45 - +91 84199 14299: <Media omitted>
+02/03/23, 22:46 - +91 95615 63538: Does it have a limit to prompts?
+02/03/23, 22:47 - +91 84199 14299: No but the API does🥲 free only till 1 july
+02/03/23, 22:47 - +91 84199 14299: I mean the credit will be expired or may get over if used exponentially
+02/03/23, 22:51 - +91 81045 61330: Are you fetching onChange of input?
+02/03/23, 22:56 - +91 84199 14299: While creating post? No 
+But yeah searching post is onchange with a timeout of 1 sec
+02/03/23, 23:30 - +91 91371 77800: Pretty simple project, most of the heavy lifting done for it by the dalle api, still gg
+02/03/23, 23:43 - +91 84199 14299: dalle at home?🤡
+02/03/23, 23:48 - Tejas Warambhe Clg Coder CP: I think we get 50 credits for free
+02/03/23, 23:49 - +91 84199 14299: For api it's 18 dollars
+02/03/23, 23:49 - +91 84199 14299: But they kept a time bound😞
+02/03/23, 23:49 - Tejas Warambhe Clg Coder CP: Personal suggestions, if the credits gonna get blown out, have a backup api.
+
+Add the project link to your resume, and don’t share hostel link publicly, let recruiters use it
+02/03/23, 23:50 - Tejas Warambhe Clg Coder CP: Suggestion*
+Hosted*
+02/03/23, 23:50 - +91 84199 14299: Ok
+02/03/23, 23:52 - Tejas Warambhe Clg Coder CP: End of the day anything you make is not for masses, it’s just a project for showcasing skill.
+
+Use it to get an intern
+02/03/23, 23:52 - +91 84199 14299: Yes true
+02/03/23, 23:53 - +91 84199 14299: But the credit it's goona get expire after some time
+02/03/23, 23:54 - Tejas Warambhe Clg Coder CP: Till july right?
+02/03/23, 23:54 - +91 84199 14299: Yes
+02/03/23, 23:54 - Tejas Warambhe Clg Coder CP: Just update the api, get a new one from a new gmail lol
+02/03/23, 23:54 - +91 84199 14299: 😂 I did it once they need phone number too
+02/03/23, 23:55 - Tejas Warambhe Clg Coder CP: You might be using same device/ip address
+02/03/23, 23:55 - Tejas Warambhe Clg Coder CP: Try with a different one
+02/03/23, 23:55 - +91 84199 14299: Oh got it
+03/03/23, 00:36 - +91 95886 22796: Anyone know how to retrieve unsaved work on power point
+03/03/23, 00:37 - +91 84199 14299: Ig it's not possible
+03/03/23, 00:37 - +91 95886 22796: Ssrly🙄 me marr jaunga bhai 3 ghante ki mehnt gayi meri....
+03/03/23, 00:37 - +91 84199 14299: 🤒r u guys still working on that startupM
+03/03/23, 00:38 - +91 95886 22796: are startup gya ….. ye bta tu
+03/03/23, 00:38 - +91 84199 14299: Nhi possible brk
+03/03/23, 00:38 - +91 84199 14299: Bro*
+03/03/23, 00:38 - +91 84199 14299: Retrieve karna unsave ko
+03/03/23, 00:39 - +91 84199 14299: Tuna x press karna ka pahla save nhi Kiya?
+03/03/23, 07:38 - +91 90497 61699: This is why I started using Google Slides 💀
+03/03/23, 07:41 - +91 91307 03898: Ek hi option tha har change ke baad save ab impossible hai 🥲
+04/03/23, 10:22 - +91 88287 20326 joined using this group's invite link
+04/03/23, 23:13 - +91 91378 93430: .
+04/03/23, 23:13 - +91 84199 14299: ?
+04/03/23, 23:15 - +91 73047 51861: Project: dream-dress.vercel.app
+04/03/23, 23:15 - +91 84199 14299: Great project
+04/03/23, 23:15 - +91 91378 93430: Full Stack hai......
+04/03/23, 23:15 - +91 84199 14299: 🫡
+04/03/23, 23:21 - Sushant Patil Div B Clg 🌌: This message was deleted
+04/03/23, 23:21 - Sushant Patil Div B Clg 🌌: This message was deleted
+04/03/23, 23:26 - +91 81045 61330: It's just a project.
+04/03/23, 23:36 - +91 91378 93430: *Full stack
+Serverless
+On cloud
+...
+05/03/23, 02:29 - +91 73047 51861: Updated Project: http://dream-dress.vercel.app
+changes :
+1. Responsive banner
+2. Work in light, dark theme
+3. Updated UI 
+your suggestions are welcome
+05/03/23, 09:27 - +91 81087 32316: Superbbbb 💃💃
+05/03/23, 14:40 - Tejas Warambhe Clg Coder CP: That’s amazing
+05/03/23, 15:10 - +91 73047 51861: Thank you everyone
+05/03/23, 15:12 - Pratham Kumbhar (clg): This message was deleted
+05/03/23, 15:12 - Pratham Kumbhar (clg): This message was deleted
+05/03/23, 23:09 - +91 84199 14299: https://app.cyclic.sh/#/join/Anuragmaurya-code
+05/03/23, 23:09 - +91 84199 14299: To freely deploy your full stack website
+09/03/23, 14:46 - +91 91371 77800: https://m-cacm.acm.org/magazines/2023/1/267976-the-end-of-programming/fulltext
+09/03/23, 20:20 - +91 90497 61699: Fr tho, GitHub copilot is in its early stages and already doing so much 😬
+09/03/23, 20:23 - +91 91378 93430: Github Copilot iss JODDDDDDDDD 🎉🎉
+09/03/23, 20:25 - +91 90497 61699: Lol
+09/03/23, 20:34 - +91 84199 14299: 🤡
+09/03/23, 20:36 - +91 84199 14299: Eek saal ka fees bacha la time hai
+09/03/23, 20:40 - +91 91371 77800: There's a difference between being a computer engineer and just being a coder churning up more useless webapps. The latter sadly any codemonkey can do with enough time put in copying code online.
+09/03/23, 20:42 - +91 91371 77800: This message was deleted
+09/03/23, 20:42 - +91 91371 77800: This message was deleted
+09/03/23, 20:44 - +91 84199 14299: Itna bhi sach nhi bolna chahiye tha🥲
+09/03/23, 20:48 - +91 84199 14299: Though I don't know you personally all I know is your name on the toilet wall I 🤔 wonder how you came to know about my intelligence
+09/03/23, 20:52 - +91 90497 61699: <Media omitted>
+09/03/23, 20:56 - +91 91371 77800: This message was deleted
+09/03/23, 20:56 - +91 91371 77800: This message was deleted
+09/03/23, 20:56 - +91 91371 77800: This message was deleted
+09/03/23, 20:56 - +91 84199 14299: Bruh
+09/03/23, 20:56 - +91 91371 77800: Chod
+09/03/23, 20:58 - +91 84199 14299: Don't even remember you
+09/03/23, 21:24 - +91 91371 77800: To anyone who reads this later, my fault guys, i actually dont know this anurag guy any well or about him at all
+09/03/23, 21:32 - +91 91371 77800: Ignore this convo and my very wrong assumptions about it
+09/03/23, 21:32 - +91 91371 77800: .
+09/03/23, 21:55 - +91 89280 48443: This message was deleted
+09/03/23, 21:56 - +91 90046 27590: This message was deleted
+09/03/23, 21:56 - +91 90046 27590: This message was deleted
+09/03/23, 21:57 - +91 91371 77800: <Media omitted>
+09/03/23, 21:57 - +91 91371 77800: Future goals 🥲🤌
+09/03/23, 21:58 - +91 91371 77800: <Media omitted>
+10/03/23, 00:56 - Tejas Warambhe Clg Coder CP: If someone wanna show superiority here, consider flaunting your real world achievements rather than knowledge. It’s subjective to the stuff we learn and have worked with.
+
+Sadly no one here has hustled enough when it comes to programming other than 1-2 that I know to even have a chance to brag about themselves.

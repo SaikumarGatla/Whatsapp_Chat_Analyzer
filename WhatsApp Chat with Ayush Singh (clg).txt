@@ -1,0 +1,220 @@
+04/10/22, 10:50 - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+04/10/22, 13:57 - Ayush Singh (clg): IEEE ka grp bana kya tera
+04/10/22, 16:12 - ~Saikumar Gatla: Ha
+04/10/22, 16:17 - Ayush Singh (clg): Mere liye jagah hae kya?
+04/10/22, 16:33 - ~Saikumar Gatla: Pata nahi kitne logo ka grp allowed hai
+06/10/22, 13:56 - ~Saikumar Gatla: CNS mai kam stdnts rahenge to mat karna mera attendance
+06/10/22, 15:00 - Ayush Singh (clg): Maar dia cns mae
+06/10/22, 15:01 - Ayush Singh (clg): Mam ne pakda lekin ham sab ne bola aaya hae
+06/10/22, 18:35 - ~Saikumar Gatla: You deleted this message
+06/10/22, 18:35 - ~Saikumar Gatla: 👍😂😂
+06/10/22, 18:36 - ~Saikumar Gatla: Eska hi dar tha
+09/10/22, 20:36 - ~Saikumar Gatla: Cns ke mam ne Friday ko konsa topic sekhaya tha
+09/10/22, 20:36 - ~Saikumar Gatla: Firewall sekhaya tha kya
+09/10/22, 20:50 - Ayush Singh (clg): Nahi sirf IDS
+14/10/22, 16:35 - Ayush Singh (clg): Missed voice call
+14/10/22, 21:33 - ~Saikumar Gatla: Kya hua
+14/10/22, 22:48 - Ayush Singh (clg): Cns mam ne jo classroom mae last lecture mae imps di vo bhej.
+14/10/22, 22:48 - Ayush Singh (clg): Mam ne bola tusje lene
+14/10/22, 22:49 - Ayush Singh (clg): Tu baitha tha na last lecture wohi imps question chaiye.
+14/10/22, 22:55 - ~Saikumar Gatla: IPsec aur vpn ache se karne boli hai
+14/10/22, 22:55 - ~Saikumar Gatla: Aur asgnmnt 2
+14/10/22, 22:55 - ~Saikumar Gatla: <Media omitted>
+14/10/22, 22:55 - ~Saikumar Gatla: Isme jyada questions nahi hai
+14/10/22, 22:56 - ~Saikumar Gatla: Etna hi hai imp
+14/10/22, 22:56 - Ayush Singh (clg): Sorry bhai mae SE bolna tha cns galti se likh diya maine
+14/10/22, 22:57 - Ayush Singh (clg): SE chaiye tha
+14/10/22, 22:57 - ~Saikumar Gatla: <Media omitted>
+17/10/22, 16:04 - ~Saikumar Gatla: Diff between Verification and validation
+17/10/22, 16:04 - ~Saikumar Gatla: Pattern organization table
+17/10/22, 16:04 - ~Saikumar Gatla: Confirm bola to hai mam ne 👆
+17/10/22, 16:04 - ~Saikumar Gatla: <Media omitted>
+18/10/22, 07:58 - ~Saikumar Gatla: Eeb ka assignment hai kya
+18/10/22, 07:58 - ~Saikumar Gatla: Bhejna
+18/10/22, 08:11 - Ayush Singh (clg): Assignment to nahi hae but ye hae
+18/10/22, 08:12 - Ayush Singh (clg): <Media omitted>
+18/10/22, 08:15 - Ayush Singh (clg): Iske notes bhej
+18/10/22, 08:20 - ~Saikumar Gatla: <Media omitted>
+18/10/22, 15:36 - ~Saikumar Gatla: <Media omitted>
+18/10/22, 15:36 - ~Saikumar Gatla: Definition of big data , NoSQL
+Characteristics of big data
+ Base properties
+Comparison with RDBMs
+ Data warehouse definition
+Features of data warehouse
+Data warehouse architecture
+Definition of data Mart
+Fact table dimensions table 
+Star schema snowflex schema 
+olap operation 
+Olap model
+Cap theorem
+ETL 
+Challenges in ETL
+Explain ETL in detail
+Types of data extraction
+Tasks involved in data transformation
+18/10/22, 15:36 - ~Saikumar Gatla: <Media omitted>
+18/10/22, 15:57 - Ayush Singh (clg): <Media omitted>
+18/10/22, 15:57 - Ayush Singh (clg): <Media omitted>
+18/10/22, 15:57 - Ayush Singh (clg): <Media omitted>
+18/10/22, 15:57 - Ayush Singh (clg): <Media omitted>
+18/10/22, 18:36 - ~Saikumar Gatla: <Media omitted>
+20/10/22, 14:25 - Ayush Singh (clg): <Media omitted>
+20/10/22, 19:47 - ~Saikumar Gatla: IEEE CNS ka hua kya
+20/10/22, 19:47 - ~Saikumar Gatla: Maine tujhe mere grp mai liya hai
+20/10/22, 20:27 - ~Saikumar Gatla: IP ka expt 11, aur 13 bhej na
+20/10/22, 21:30 - Ayush Singh (clg): <Media omitted>
+21/10/22, 09:03 - ~Saikumar Gatla: You deleted this message
+04/11/22, 10:42 - Ayush Singh (clg): Pce ke 4th and 8th expt bhej na
+04/11/22, 10:45 - ~Saikumar Gatla: <Media omitted>
+04/11/22, 10:45 - ~Saikumar Gatla: <Media omitted>
+04/11/22, 10:45 - ~Saikumar Gatla: <Media omitted>
+04/11/22, 10:45 - ~Saikumar Gatla: <Media omitted>
+04/11/22, 10:46 - ~Saikumar Gatla: 8 👆
+04/11/22, 10:46 - ~Saikumar Gatla: <Media omitted>
+04/11/22, 10:46 - ~Saikumar Gatla: <Media omitted>
+04/11/22, 10:56 - Ayush Singh (clg): Pce ka index hae kya
+04/11/22, 10:57 - ~Saikumar Gatla: <Media omitted>
+04/11/22, 10:57 - ~Saikumar Gatla: <Media omitted>
+04/11/22, 10:57 - ~Saikumar Gatla: <Media omitted>
+04/11/22, 10:57 - ~Saikumar Gatla: <Media omitted>
+04/11/22, 10:57 - ~Saikumar Gatla: <Media omitted>
+04/11/22, 10:57 - ~Saikumar Gatla: <Media omitted>
+04/11/22, 10:57 - ~Saikumar Gatla: <Media omitted>
+04/11/22, 10:57 - ~Saikumar Gatla: <Media omitted>
+11/11/22, 12:19 - ~Saikumar Gatla: Git
+11/11/22, 12:19 - ~Saikumar Gatla: Git init
+11/11/22, 12:19 - ~Saikumar Gatla: Git status
+11/11/22, 12:19 - ~Saikumar Gatla: Git add .
+11/11/22, 12:20 - ~Saikumar Gatla: Git commit -m "commit msg"
+11/11/22, 12:20 - ~Saikumar Gatla: Git log
+11/11/22, 12:20 - ~Saikumar Gatla: Git diff
+11/11/22, 12:21 - ~Saikumar Gatla: Git config --global user.name "ayush"
+11/11/22, 12:21 - ~Saikumar Gatla: Git config --global user.email "ayush@gmail.com"
+11/11/22, 12:22 - ~Saikumar Gatla: Git config user.email
+11/11/22, 12:22 - ~Saikumar Gatla: Git config user.name
+20/11/22, 20:19 - Ayush Singh (clg): Imp questions hae kya?
+20/11/22, 20:33 - ~Saikumar Gatla: <Media omitted>
+20/11/22, 20:34 - ~Saikumar Gatla: <Media omitted>
+20/11/22, 20:34 - ~Saikumar Gatla: <Media omitted>
+20/11/22, 20:34 - ~Saikumar Gatla: Assignment bhi kar le
+21/11/22, 15:09 - ~Saikumar Gatla: You deleted this message
+23/11/22, 10:58 - Ayush Singh (clg): Cns ke imp hae kya
+23/11/22, 12:35 - ~Saikumar Gatla: <Media omitted>
+23/11/22, 12:35 - ~Saikumar Gatla: <Media omitted>
+23/11/22, 12:35 - ~Saikumar Gatla: <Media omitted>
+23/11/22, 12:35 - ~Saikumar Gatla: <Media omitted>
+23/11/22, 13:13 - Ayush Singh (clg): 1st paper kaunse year ka hae?
+23/11/22, 15:50 - ~Saikumar Gatla: Clg ka hai
+23/11/22, 15:58 - Ayush Singh (clg): Nov - Dec 2021 ka paper hae kya
+23/11/22, 15:58 - Ayush Singh (clg): Tere paas
+23/11/22, 15:59 - Ayush Singh (clg): Ya fir 2022 ka may wala paper hae kya?
+23/11/22, 17:09 - Ayush Singh (clg): May 2022 ka question paper hoga to bhej
+23/11/22, 17:33 - ~Saikumar Gatla: Nahi hai
+24/11/22, 17:59 - ~Saikumar Gatla: <Media omitted>
+24/11/22, 17:59 - ~Saikumar Gatla: <Media omitted>
+24/11/22, 17:59 - ~Saikumar Gatla: <Media omitted>
+24/11/22, 17:59 - ~Saikumar Gatla: <Media omitted>
+19/01/23, 07:56 - Ayush Singh (clg): Mera proxy maar dena
+19/01/23, 08:27 - ~Saikumar Gatla: 🤣
+19/01/23, 09:01 - ~Saikumar Gatla: Ha bhai
+19/01/23, 12:44 - ~Saikumar Gatla: <Media omitted>
+23/01/23, 17:38 - ~Saikumar Gatla: Tere pass last sem ka index page aur certificate page ka pdf hai kya
+23/01/23, 22:18 - Ayush Singh (clg): Whatsapp clear kar diya tha maine
+24/01/23, 08:55 - ~Saikumar Gatla: Mera proxy mar dena
+24/01/23, 09:00 - ~Saikumar Gatla: Sirf 1 lectr ka
+25/01/23, 18:38 - ~Saikumar Gatla: Sensor lab ke project ke liye hamare grp mai ekk member ki jagah hai
+25/01/23, 18:38 - ~Saikumar Gatla: Aja hamare grp mai
+25/01/23, 22:54 - Ayush Singh (clg): Vaishnavi ne liya grp mae
+25/01/23, 22:55 - Ayush Singh (clg): Next time fix tere grp mae
+26/01/23, 11:27 - ~Saikumar Gatla: K
+02/02/23, 11:50 - ~Saikumar Gatla: https://docs.google.com/forms/u/2/d/e/1FAIpQLSft9XBaRhxYFyberlPay8fTMs-ZN7TRlyZj2BtKUhW-7OWbnw/viewform?usp=send_form
+02/02/23, 11:51 - ~Saikumar Gatla: Seminar proxy link
+04/02/23, 14:27 - ~Saikumar Gatla: <Media omitted>
+05/02/23, 10:45 - ~Saikumar Gatla: <Media omitted>
+05/02/23, 10:45 - ~Saikumar Gatla: <Media omitted>
+06/02/23, 08:48 - ~Saikumar Gatla: <Media omitted>
+06/02/23, 08:48 - ~Saikumar Gatla: <Media omitted>
+06/02/23, 08:48 - ~Saikumar Gatla: <Media omitted>
+06/02/23, 08:48 - ~Saikumar Gatla: <Media omitted>
+06/02/23, 08:48 - ~Saikumar Gatla: <Media omitted>
+06/02/23, 08:48 - ~Saikumar Gatla: <Media omitted>
+06/02/23, 14:44 - ~Saikumar Gatla: <Media omitted>
+16/02/23, 10:34 - Ayush Singh (clg): Aids ke kitne expt huve hae?
+16/02/23, 10:39 - Ayush Singh (clg): Ai ke expt bhej
+16/02/23, 11:52 - ~Saikumar Gatla: <Media omitted>
+16/02/23, 12:46 - ~Saikumar Gatla: <Media omitted>
+16/02/23, 13:00 - ~Saikumar Gatla: <Media omitted>
+16/02/23, 13:00 - ~Saikumar Gatla: <Media omitted>
+16/02/23, 13:02 - ~Saikumar Gatla: <Media omitted>
+16/02/23, 13:25 - ~Saikumar Gatla: 160 cm
+16/02/23, 13:25 - ~Saikumar Gatla: 58kg
+16/02/23, 23:25 - ~Saikumar Gatla: <Media omitted>
+16/02/23, 23:25 - ~Saikumar Gatla: <Media omitted>
+19/02/23, 01:20 - Ayush Singh (clg): Ye question bank hae kya dmbi ke?
+19/02/23, 01:20 - Ayush Singh (clg): Mam ne koi assignment diya hae kya?
+19/02/23, 01:29 - Ayush Singh (clg): Dmbi ke koi assignment ya phir koi question bank hae kya?
+19/02/23, 10:04 - ~Saikumar Gatla: Asgnmt nahi diya hai
+19/02/23, 10:05 - ~Saikumar Gatla: Ye questions kar
+19/02/23, 10:05 - ~Saikumar Gatla: <Media omitted>
+19/02/23, 10:05 - ~Saikumar Gatla: Starting 3 module ke sums kar
+19/02/23, 10:16 - ~Saikumar Gatla: <Media omitted>
+19/02/23, 10:16 - ~Saikumar Gatla: <Media omitted>
+19/02/23, 10:16 - ~Saikumar Gatla: <Media omitted>
+19/02/23, 10:16 - ~Saikumar Gatla: IEEE wifi architecture is a conform question for ia1
+19/02/23, 10:17 - ~Saikumar Gatla: Ye padh ke rakh
+20/02/23, 12:22 - Ayush Singh (clg): Wt ka classroom code
+20/02/23, 12:40 - ~Saikumar Gatla: https://classroom.google.com/c/NTE2MDE0MzM5ODYx?cjc=qrzv2se
+Google Classroom link for Wireless Technology
+20/02/23, 15:56 - Ayush Singh (clg): Ye mam ne kaha pe upload kiya hae
+20/02/23, 16:03 - ~Saikumar Gatla: Unofficial pe mam ne bhejwaya hai koi std se
+20/02/23, 20:09 - Ayush Singh (clg): Qyestion bank karra hae ya assignment web x ka
+20/02/23, 20:23 - Ayush Singh (clg): Data exploration ka ans hae kya?
+20/02/23, 20:23 - Ayush Singh (clg): .
+20/02/23, 20:29 - ~Saikumar Gatla: Question bank
+20/02/23, 20:29 - Ayush Singh (clg): .
+20/02/23, 20:30 - ~Saikumar Gatla: <Media omitted>
+22/02/23, 15:49 - ~Saikumar Gatla: Wampus choke sab
+22/02/23, 15:49 - ~Saikumar Gatla: Astar ,alpha beta pruning
+22/02/23, 15:49 - ~Saikumar Gatla: All agent types
+22/02/23, 15:49 - ~Saikumar Gatla: Adversial search: min max and alpha beta pruning,
+informed search kara sagale
+ And agents: goal and utility based agents
+Third chapter madhe 3 questions ahet faqt
+22/02/23, 15:49 - ~Saikumar Gatla: Mod 2 ke topics iss me se karo
+22/02/23, 15:49 - ~Saikumar Gatla: Aur mod 3 Mai 
+Proposition logic aur knowledge base....
+Mod 1 pura karna hai
+
+Mam ne bola hai......
+22/02/23, 21:06 - ~Saikumar Gatla: From 2nd chapter do A* algo and Alpha beta pruning search
+22/02/23, 21:06 - Ayush Singh (clg): Bas yehi 2
+22/02/23, 21:07 - ~Saikumar Gatla: Ha phele ye do kar
+22/02/23, 21:07 - ~Saikumar Gatla: You deleted this message
+22/02/23, 21:07 - ~Saikumar Gatla: <Media omitted>
+22/02/23, 21:07 - ~Saikumar Gatla: Module 3 ke ye do questions kar le
+22/02/23, 21:07 - ~Saikumar Gatla: Agents types
+22/02/23, 21:08 - ~Saikumar Gatla: PEAS Wala
+22/02/23, 21:08 - ~Saikumar Gatla: EHF start kar fir
+22/02/23, 21:08 - ~Saikumar Gatla: Ans hai tere pass tho bhej na mujhe
+22/02/23, 21:09 - Ayush Singh (clg): Mae yt pe dekta hu answer banana padega
+03/03/23, 18:19 - ~Saikumar Gatla: Parents meeting ke bare mai Ghar pe bataya hai kya
+03/03/23, 18:19 - Ayush Singh (clg): Abhi tak tho nahi
+04/03/23, 22:59 - ~Saikumar Gatla: Vegetarian
+04/03/23, 22:59 - ~Saikumar Gatla: No egg no meat
+04/03/23, 22:59 - ~Saikumar Gatla: Height 160 cm
+04/03/23, 22:59 - ~Saikumar Gatla: Weight 58kg
+04/03/23, 22:59 - ~Saikumar Gatla: Goal : gain pure muscles with no fat
+04/03/23, 22:59 - ~Saikumar Gatla: Diet puch na tere Bhai ko
+04/03/23, 23:00 - ~Saikumar Gatla: Can workout 6 days a week
+04/03/23, 23:28 - Ayush Singh (clg): Bhai puch raha hae gym karke kitne months huve hae?
+04/03/23, 23:29 - Ayush Singh (clg): *kitne time huva hae
+05/03/23, 00:16 - Ayush Singh (clg): <Media omitted>
+05/03/23, 00:16 - Ayush Singh (clg): <Media omitted>
+05/03/23, 00:18 - Ayush Singh (clg): Chana nahi pasand to paneer le sakta hae,Bhai ne bola.
+05/03/23, 00:19 - Ayush Singh (clg): Chana ya paneer dono mae se koi ek le sakta hae, jo teko pasand ho.
+04/03/23, 23:28 - Ayush Singh (clg): Missed voice call
+05/03/23, 09:11 - ~Saikumar Gatla: 5 month
+05/03/23, 19:35 - ~Saikumar Gatla: <Media omitted>
+05/03/23, 19:35 - ~Saikumar Gatla: Kal asgnmt submission
